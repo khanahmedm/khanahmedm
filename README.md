@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Khan Ahmed
+# 👋 Hi there! I'm Ahmed Khan
 
 Welcome to my GitHub profile! I'm a data architect and consultant with 20+ years of experience building scalable, secure, and efficient data solutions across finance, tech, and enterprise environments.
 
