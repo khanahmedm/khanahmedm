@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a data engineer & architect and consultant wit
 
 I'm deeply passionate about programming and love architecting and building solutions that help humanity. I’m also extremely customer-focused ensuring my clients are not just satisfied, but truly delighted with the services and deliverables I provide.
 
-Currently, I'm pursuing a **Master's degree in Data Science** from **The University of Texas at Austin**, and have recently worked on cutting-edge **Machine Learning and AI** projects.
+Currently, I'm pursuing a **Master's degree in Data Science** (part-time) from **The University of Texas at Austin**, and have recently worked on cutting-edge **Machine Learning and AI** projects.
 
 ---
 
