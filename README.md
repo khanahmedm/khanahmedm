@@ -10,7 +10,7 @@ Currently, I'm pursuing a **Master's degree in Data Science** from **The Univers
 
 ## 🔧 What I Do
 
-- 🧠 **Data Architecture & Modeling** – Star/Snowflake schema, OLTP/OLAP, data lakes & marts  
+- 🧠 **Data Architecture & Modeling** – Star/Snowflake schema, OLTP/OLAP, data lakes & data warehouses & data marts  
 - 🚀 **Cloud & Big Data** – AWS (Glue, Step Functions, DynamoDB, S3, SNS), PySpark, PostgreSQL, Oracle  
 - 🤖 **Machine Learning & AI** – Amazon SageMaker, Amazon Bedrock, Kendra, Amazon Q, Azure ML Studio, AutoML, Google DialogFlow, NumPy, pandas  
 - 🛠️ **ETL & Pipelines** – Ab Initio, Informatica, Talend, AWS Glue, Python, SQL  
