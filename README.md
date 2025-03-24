@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Ahmed Khan
 
-Welcome to my GitHub profile! I'm a data engineer & architect and consultant with 20+ years of experience building scalable, secure, and efficient data solutions across finance, tech, and enterprise environments. I have recently worked on cutting-edge **Machine Learning and AI** projects.
+Welcome to my GitHub profile! I'm a **data engineer/architect** and consultant with 20+ years of experience building scalable, secure, and efficient data solutions across finance, tech, and enterprise environments. I have recently worked on cutting-edge **Machine Learning and AI** projects.
 
 I'm deeply passionate about programming and love architecting and building solutions that help humanity. I’m also extremely customer-focused ensuring my clients are not just satisfied, but truly delighted with the services and deliverables I provide.
 
